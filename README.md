@@ -3,11 +3,11 @@
 
 ### Results examples:
 
-![image](https://user-images.githubusercontent.com/113569606/191005944-366e43a1-cdc6-4a82-9d2c-09e93b240324.png)
+        - query image has blue borders,
+        - correctly retrieved images (images from the same class as query) in top-5 nearest neighbors have green borders,
+        - images from other classes in top-5 nearest neighbors have red borders.
 
-- query image has blue borders,
-- correctly retrieved images (images from the same class as query) in top-5 nearest neighbors have green borders,
-- images from other classes in top-5 nearest neighbors have red borders.
+![image](https://user-images.githubusercontent.com/113569606/191005944-366e43a1-cdc6-4a82-9d2c-09e93b240324.png)
 
 ## About The Project
 
