@@ -10,6 +10,9 @@
 
 File to run:
 
+        train/main.py
+        or 
+        hw-imageretrieval-final.ipynb
 
 ## Implementation details
 
