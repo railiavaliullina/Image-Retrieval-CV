@@ -17,7 +17,7 @@ File to run:
         hw-imageretrieval-final.ipynb
         
         
- There is also `Memory Bank` implementation in `models/memory_bank.py` for training strategy with saving embedding while training to obtain more informative and challenging triplets as was proposed paper `Cross-Batch Memory for Embedding Learning`
+ There is also `Memory Bank` implementation in `models/memory_bank.py` for training strategy with saving embeddings while training to obtain more informative and challenging triplets as it was proposed in paper `Cross-Batch Memory for Embedding Learning`:
  
         https://arxiv.org/pdf/1912.06798.pdf
         
