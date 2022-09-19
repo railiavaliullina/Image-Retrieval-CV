@@ -15,6 +15,7 @@ File to run:
         or 
         
         hw-imageretrieval-final.ipynb
+        
 
 ## Implementation details
 
@@ -30,4 +31,9 @@ Model architecture consists of:
 Loss Function `Triplet Loss` and `hard-negative sampling` technique are implemented as it was proposed in `FaceNet: A Unified Embedding for Face Recognition and Clustering` paper:
         
             https://arxiv.org/pdf/1503.03832.pdf
+            
+            
+ T-SNE visualization for visualizing result embeddings for images from test set is in:
+ 
+        train/main.py
     
