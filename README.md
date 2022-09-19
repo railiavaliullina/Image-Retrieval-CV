@@ -3,7 +3,7 @@
 
 ### Result examples
 
-![image](https://user-images.githubusercontent.com/113569606/191005545-d0ee2e9a-da9b-4585-a710-82f028c0c9a7.png)
+![image](https://user-images.githubusercontent.com/113569606/191005944-366e43a1-cdc6-4a82-9d2c-09e93b240324.png)
 
 
 ## About The Project
