@@ -27,7 +27,7 @@ Model architecture consists of:
     - Global Average Pooling (GAP) applied to the last layer of ResNet,
     - fully-connected layer to get embedding for input image.
 
-Loss Function and hard-negative sampling are from `FaceNet: A Unified Embedding for Face Recognition and Clustering` paper:
+Loss Function and hard-negative sampling technique are implemented as it was proposed in `FaceNet: A Unified Embedding for Face Recognition and Clustering` paper:
         
             https://arxiv.org/pdf/1503.03832.pdf
     
