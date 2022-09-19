@@ -1,5 +1,11 @@
 # Image-Retrieval
 
+
+### Result examples
+
+![image](https://user-images.githubusercontent.com/113569606/191005545-d0ee2e9a-da9b-4585-a710-82f028c0c9a7.png)
+
+
 ## About The Project
 
 1) Implementation of training pipeline for Image Retrieval task,
