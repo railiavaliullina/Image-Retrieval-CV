@@ -16,7 +16,9 @@ File to run:
 Model architecture consists of:
 
     - ResNet-50 (without last classification layer) from paper 'Deep Residual Learning for Image Recognition'
-        https://arxiv.org/pdf/1512.03385.pdf,
+    
+            https://arxiv.org/pdf/1512.03385.pdf,
+        
     - Global Average Pooling (GAP) applied to the last layer of ResNet,
     - fully-connected layer to get embedding for input image.
 
@@ -24,5 +26,5 @@ Loss Function:
 
     Triplet Loss from `FaceNet: A Unified Embedding for Face Recognition and Clustering` paper
         
-        https://arxiv.org/pdf/1503.03832.pdf
+            https://arxiv.org/pdf/1503.03832.pdf
     
